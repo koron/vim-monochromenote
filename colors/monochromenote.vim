@@ -72,9 +72,9 @@ highlight PreProc ctermfg=Black ctermbg=LightGrey guifg=grey10 guibg=grey70
 highlight Identifier ctermfg=Black ctermbg=LightGrey guifg=grey10 guibg=grey70
 highlight Special ctermfg=Black ctermbg=White guifg=grey10 guibg=grey80
 highlight Constant ctermfg=DarkGrey ctermbg=White guifg=grey25 guibg=grey80
-highlight Error ctermfg=White ctermbg=Black guifg=grey90 guibg=grey10
+highlight Error ctermfg=DarkGrey ctermbg=White guifg=grey50 guibg=grey100
 highlight Underlined term=underline cterm=underline ctermfg=DarkGrey ctermbg=LightGrey gui=underline guifg=grey25 guibg=grey70
-highlight Todo ctermfg=White ctermbg=DarkGrey guifg=grey90 guibg=grey50
+highlight Todo ctermfg=White ctermbg=White guifg=grey100 guibg=grey80
 
 " links
 highlight link IncSearch Cursor
